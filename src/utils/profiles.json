@@ -1,0 +1,422 @@
+[
+  {
+    "id": 1,
+    "firstName": "Naveen",
+    "lastName": "Agarwal",
+    "className": 12,
+    "rollNumber": 101,
+    "picture": "https://i.pravatar.cc",
+    "status": "active",
+    "chats": []
+  },
+  {
+    "id": 2,
+    "firstName": "Rohit",
+    "lastName": "Agarwal",
+    "className": 12,
+    "rollNumber": 102,
+    "picture": "https://i.pravatar.cc",
+    "status": "inactive",
+    "chats": []
+  },
+  {
+    "id": 3,
+    "firstName": "Raghav",
+    "lastName": "Sharma",
+    "className": 12,
+    "rollNumber": 103,
+    "picture": "https://i.pravatar.cc",
+    "status": "inactive",
+    "chats": []
+  },
+  {
+    "id": 4,
+    "firstName": "Rajiv",
+    "lastName": "Khandelwal",
+    "className": 12,
+    "rollNumber": 104,
+    "picture": "https://i.pravatar.cc",
+    "status": "active",
+    "chats": []
+  },
+  {
+    "id": 5,
+    "firstName": "Mohd.",
+    "lastName": "Kasim",
+    "className": 12,
+    "rollNumber": 105,
+    "picture": "https://i.pravatar.cc",
+    "status": "inactive",
+    "chats": []
+  },
+  {
+    "id": 6,
+    "firstName": "Nathu",
+    "lastName": "Lal",
+    "className": 12,
+    "rollNumber": 106,
+    "picture": "https://i.pravatar.cc",
+    "status": "active",
+    "chats": []
+  },
+  {
+    "id": 7,
+    "firstName": "Bhavna",
+    "lastName": "Sharma",
+    "className": 12,
+    "rollNumber": 107,
+    "picture": "https://i.pravatar.cc",
+    "status": "active",
+    "chats": []
+  },
+  {
+    "id": 8,
+    "firstName": "Pappu",
+    "lastName": "Yadav",
+    "className": 12,
+    "rollNumber": 108,
+    "picture": "https://i.pravatar.cc",
+    "status": "active",
+    "chats": []
+  },
+  {
+    "id": 9,
+    "firstName": "Astha",
+    "lastName": "Laddha",
+    "className": 12,
+    "rollNumber": 109,
+    "picture": "https://i.pravatar.cc",
+    "status": "active",
+    "chats": []
+  },
+  {
+    "id": 10,
+    "firstName": "Gunjan",
+    "lastName": "Chobey",
+    "className": 12,
+    "rollNumber": 110,
+    "picture": "https://i.pravatar.cc",
+    "status": "active",
+    "chats": []
+  },
+  {
+    "id": 11,
+    "firstName": "Lalita",
+    "lastName": "Panwar",
+    "className": 12,
+    "rollNumber": 111,
+    "picture": "https://i.pravatar.cc",
+    "status": "active",
+    "chats": []
+  },
+  {
+    "id": 12,
+    "firstName": "Kajal",
+    "lastName": "Banerji",
+    "className": 12,
+    "rollNumber": 112,
+    "picture": "https://i.pravatar.cc",
+    "status": "active",
+    "chats": []
+  },
+  {
+    "id": 13,
+    "firstName": "Avesh",
+    "lastName": "Khan",
+    "className": 12,
+    "rollNumber": 113,
+    "picture": "https://i.pravatar.cc",
+    "status": "active",
+    "chats": []
+  },
+  {
+    "id": 14,
+    "firstName": "Yusuf",
+    "lastName": "Pathan",
+    "className": 12,
+    "rollNumber": 114,
+    "picture": "https://i.pravatar.cc",
+    "status": "inactive",
+    "chats": []
+  },
+  {
+    "id": 15,
+    "firstName": "Babita",
+    "lastName": "Kash",
+    "className": 12,
+    "rollNumber": 115,
+    "picture": "https://i.pravatar.cc",
+    "status": "active",
+    "chats": []
+  },
+  {
+    "id": 16,
+    "firstName": "Narendra",
+    "lastName": "Saini",
+    "className": 12,
+    "rollNumber": 116,
+    "picture": "https://i.pravatar.cc",
+    "status": "active",
+    "chats": []
+  },
+  {
+    "id": 17,
+    "firstName": "Amit",
+    "lastName": "Shah",
+    "className": 12,
+    "rollNumber": 117,
+    "picture": "https://i.pravatar.cc",
+    "status": "active",
+    "chats": []
+  },
+  {
+    "id": 18,
+    "firstName": "Rishi",
+    "lastName": "Agarwal",
+    "className": 12,
+    "rollNumber": 118,
+    "picture": "https://i.pravatar.cc",
+    "status": "active",
+    "chats": []
+  },
+  {
+    "id": 19,
+    "firstName": "Neetu",
+    "lastName": "Garg",
+    "className": 12,
+    "rollNumber": 119,
+    "picture": "https://i.pravatar.cc",
+    "status": "active",
+    "chats": []
+  },
+  {
+    "id": 20,
+    "firstName": "Cheena",
+    "lastName": "Jain",
+    "className": 12,
+    "rollNumber": 120,
+    "picture": "https://i.pravatar.cc",
+    "status": "active",
+    "chats": []
+  },
+  {
+    "id": 21,
+    "firstName": "Jai",
+    "lastName": "Lalita",
+    "className": 12,
+    "rollNumber": 121,
+    "picture": "https://i.pravatar.cc",
+    "status": "active",
+    "chats": []
+  },
+  {
+    "id": 22,
+    "firstName": "Mutthu",
+    "lastName": "Swami",
+    "className": 12,
+    "rollNumber": 122,
+    "picture": "https://i.pravatar.cc",
+    "status": "active",
+    "chats": []
+  },
+  {
+    "id": 23,
+    "firstName": "Ajam",
+    "lastName": "Parvej",
+    "className": 12,
+    "rollNumber": 123,
+    "picture": "https://i.pravatar.cc",
+    "status": "active",
+    "chats": []
+  },
+  {
+    "id": 24,
+    "firstName": "Parvej",
+    "lastName": "Musharraf",
+    "className": 12,
+    "rollNumber": 124,
+    "picture": "https://i.pravatar.cc",
+    "status": "active",
+    "chats": []
+  },
+  {
+    "id": 25,
+    "firstName": "Mohit",
+    "lastName": "Kansal",
+    "className": 12,
+    "rollNumber": 125,
+    "picture": "https://i.pravatar.cc",
+    "status": "active",
+    "chats": []
+  },
+  {
+    "id": 26,
+    "firstName": "Shobhna",
+    "lastName": "Yadav",
+    "className": 12,
+    "rollNumber": 126,
+    "picture": "https://i.pravatar.cc",
+    "status": "active",
+    "chats": []
+  },
+  {
+    "id": 27,
+    "firstName": "Guddu",
+    "lastName": "Dungar",
+    "className": 12,
+    "rollNumber": 127,
+    "picture": "https://i.pravatar.cc",
+    "status": "active",
+    "chats": []
+  },
+  {
+    "id": 28,
+    "firstName": "Nirja",
+    "lastName": "Jhanwar",
+    "className": 12,
+    "rollNumber": 128,
+    "picture": "https://i.pravatar.cc",
+    "status": "active",
+    "chats": []
+  },
+  {
+    "id": 29,
+    "firstName": "Rajendra",
+    "lastName": "Singh",
+    "className": 12,
+    "rollNumber": 129,
+    "picture": "https://i.pravatar.cc",
+    "status": "active",
+    "chats": []
+  },
+  {
+    "id": 30,
+    "firstName": "Gajendra",
+    "lastName": "Chauhan",
+    "className": 12,
+    "rollNumber": 130,
+    "picture": "https://i.pravatar.cc",
+    "status": "active",
+    "chats": []
+  },
+  {
+    "id": 31,
+    "firstName": "Vinit",
+    "lastName": "Mathur",
+    "className": 12,
+    "rollNumber": 131,
+    "picture": "https://i.pravatar.cc",
+    "status": "active",
+    "chats": []
+  },
+  {
+    "id": 32,
+    "firstName": "Manohar",
+    "lastName": "Soni",
+    "className": 12,
+    "rollNumber": 132,
+    "picture": "https://i.pravatar.cc",
+    "status": "active",
+    "chats": []
+  },
+  {
+    "id": 33,
+    "firstName": "Lala",
+    "lastName": "Ram",
+    "className": 12,
+    "rollNumber": 133,
+    "picture": "https://i.pravatar.cc",
+    "status": "active",
+    "chats": []
+  },
+  {
+    "id": 34,
+    "firstName": "Mukesh",
+    "lastName": "Singh",
+    "className": 12,
+    "rollNumber": 134,
+    "picture": "https://i.pravatar.cc",
+    "status": "active",
+    "chats": []
+  },
+  {
+    "id": 35,
+    "firstName": "Bindu",
+    "lastName": "Khan",
+    "className": 12,
+    "rollNumber": 135,
+    "picture": "https://i.pravatar.cc",
+    "status": "active",
+    "chats": []
+  },
+  {
+    "id": 36,
+    "firstName": "Shamim",
+    "lastName": "Pathan",
+    "className": 12,
+    "rollNumber": 136,
+    "picture": "https://i.pravatar.cc",
+    "status": "active",
+    "chats": []
+  },
+  {
+    "id": 37,
+    "firstName": "Kuldeep",
+    "lastName": "Singh",
+    "className": 12,
+    "rollNumber": 137,
+    "picture": "https://i.pravatar.cc",
+    "status": "active",
+    "chats": []
+  },
+  {
+    "id": 38,
+    "firstName": "Meena",
+    "lastName": "Devi",
+    "className": 12,
+    "rollNumber": 138,
+    "picture": "https://i.pravatar.cc",
+    "status": "active",
+    "chats": []
+  },
+  {
+    "id": 39,
+    "firstName": "Neetu",
+    "lastName": "Singh",
+    "className": 12,
+    "rollNumber": 139,
+    "picture": "https://i.pravatar.cc",
+    "status": "active",
+    "chats": []
+  },
+  {
+    "id": 40,
+    "firstName": "Nasiruddin",
+    "lastName": "Shah",
+    "className": 12,
+    "rollNumber": 140,
+    "picture": "https://i.pravatar.cc",
+    "status": "active",
+    "chats": []
+  },
+  {
+    "id": 41,
+    "firstName": "Rajesh",
+    "lastName": "Khanna",
+    "className": 12,
+    "rollNumber": 141,
+    "picture": "https://i.pravatar.cc",
+    "status": "active",
+    "chats": []
+  },
+  {
+    "id": 42,
+    "firstName": "Akshay",
+    "lastName": "Khanna",
+    "className": 12,
+    "rollNumber": 142,
+    "picture": "https://i.pravatar.cc",
+    "status": "active",
+    "chats": []
+  }
+]
